@@ -1,0 +1,23 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-js/demos.git"
+  },
+  "author": "Sergei Chipiga <chipiga86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ai-js/demos/issues"
+  },
+  "homepage": "https://github.com/ai-js/demos#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.4",
+    "@tensorflow/tfjs-node": "^0.1.11"
+  }
+}
